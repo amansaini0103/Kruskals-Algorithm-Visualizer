@@ -1,1 +1,1 @@
-# Kruskals-Algorithm-Visualizer
+# Kruskals-Algorithm-Visualizer-APP
